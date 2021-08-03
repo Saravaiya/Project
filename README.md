@@ -26,7 +26,9 @@ In   Signing in page  we  have following  fields
 By giving our information in  this field we  can register our   account   for  reserving a table , and we can order  food   in that  Restaurent.
 Validation  is also done in this page by using  java Script  to  validate  whether entered  password is accordance with  regex   pattern or not .
 ![sign1](https://user-images.githubusercontent.com/88303858/128032455-7ab53b71-7785-4217-ab0a-7d84b18b7352.jpg)
-![sign](https://user-images.githubusercontent.com/88303858/128032451-c598d02a-283b-4761-a37c-822f8cd7f2f0.jpg
+
+![sign](https://user-images.githubusercontent.com/88303858/128032451-c598d02a-283b-4761-a37c-822f8cd7f2f0.jpg)
+
                                         LOG IN  PAGE
 In  Login in page  we  have following  fields 
 •	E-mail  Field.
