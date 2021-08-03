@@ -11,6 +11,8 @@ My  project  is containing  Six   Html  web pages  comprises  of   Javascript, E
 
                                           HOME  PAGE
  In Home page there are nearly  Six  External  links in which if we click the link it will  navigate to the  particular  page   for    eg:  if we click  login  link it  will  navigate to the login  page.
+ ![home](https://user-images.githubusercontent.com/88303858/128031810-4d195232-b705-4099-b848-a1508d49ebf9.jpg)
+
 
  
                
