@@ -63,6 +63,7 @@ In About us  page we are having some  basic informations  like
 	And gift cards are available or not  for the guests.
  
 These informations  are available in About us Page.
+![about](https://user-images.githubusercontent.com/88303858/128034484-f88e8321-a740-48fd-888d-f2e1f6171435.jpg)
 
 
                 CONTACT US  PAGE
