@@ -1,5 +1,5 @@
 # Project
-Project  Title  :    Tamizhachi   Restaurent
+My frontend projectProject  Title  :    Tamizhachi   Restaurent
 My  project  is containing  Six   Html  web pages  comprises  of   Javascript, External  Style sheet   CSS
 	Home Page
 	Signing  in Page
@@ -8,12 +8,9 @@ My  project  is containing  Six   Html  web pages  comprises  of   Javascript, E
 	About  US  page
 	Contact  us  page
 
-
                                           HOME  PAGE
- In Home page there are nearly  Six  External  links in which if we click the link it will  navigate to the  particular  page   for    eg:  if we click  login  link it  will  navigate to the login  page.
-
-![hom](https://user-images.githubusercontent.com/88303858/128276845-8db12f63-7301-4786-890e-78fe9b0081f6.jpg)
- 
+ In Home page there are nearly  Six  External  links in which if we click the link it will  navigate to the  particular  page   for    eg:  if we click  login  link it  will  navigate to the login  page .
+ ![Screenshot (51)](https://user-images.githubusercontent.com/88303858/129816489-96023202-52c5-4786-b81b-9037ab15d32e.png)
                
 
                                         SIGNING IN  PAGE
@@ -24,19 +21,14 @@ In   Signing in page  we  have following  fields
 •	Phone  number  Field
 By giving our information in  this field we  can register our   account   for  reserving a table , and we can order  food   in that  Restaurent.
 Validation  is also done in this page by using  java Script  to  validate  whether entered  password is accordance with  regex   pattern or not .
-![sign1](https://user-images.githubusercontent.com/88303858/128032455-7ab53b71-7785-4217-ab0a-7d84b18b7352.jpg)
-
-![sign](https://user-images.githubusercontent.com/88303858/128032451-c598d02a-283b-4761-a37c-822f8cd7f2f0.jpg)
-
+![Screenshot (53)](https://user-images.githubusercontent.com/88303858/129816647-cbf60a11-9f9e-49ad-a293-282c8ed7dc32.png)
                                         LOG IN  PAGE
 In  Login in page  we  have following  fields 
 •	E-mail  Field.
 •	Password  Field.
 By giving our information in  this field we  can login our   account   for  reserving a table , and we can order  food   in that  Restaurent.
 Validation  is also done in this page by using  java Script  to  validate  whether registered  password is correct  or not .
-![login1](https://user-images.githubusercontent.com/88303858/128032431-247eabaa-13bc-4d80-b4e2-b1e56653576e.jpg)
-![login2](https://user-images.githubusercontent.com/88303858/128032439-d9d47ae0-c980-436c-a586-5f5bfc292b7c.jpg)
-
+![Screenshot (52)](https://user-images.githubusercontent.com/88303858/129817643-138e6b91-b5fe-409a-ab04-2ea36e3bcb9d.png)
 
 
        
@@ -53,23 +45,20 @@ In   Reserving table  in page  we  have following  fields
 •	 Time select Field
 •	Address  Field
 By giving our information in  this field we  can reserve a table for the party .Alert  button is also given if we click submit it will  alert message  like form submitted successfully.
-![reservation](https://user-images.githubusercontent.com/88303858/128032447-4d278c67-531c-427d-b0fe-8073ba9f5510.jpg)
+![Screenshot (54)](https://user-images.githubusercontent.com/88303858/129816929-3ee9c6fa-cf12-4b4a-8f88-5c6888924db9.png)
                               ABOUT US  PAGE 
 In About us  page we are having some  basic informations  like 
-	where  the  restaurant is located  and whether parking and transportation  is  available or not.
+
 	And  Days and  timings of the restaurant  for  Lunch and dinner.
-	And whether  catering is available or not.
-	And gift cards are available or not  for the guests.
- 
+and dishes available in our restaurent.
 These informations  are available in About us Page.
-![about](https://user-images.githubusercontent.com/88303858/128034484-f88e8321-a740-48fd-888d-f2e1f6171435.jpg)
+![Screenshot (55)](https://user-images.githubusercontent.com/88303858/129816934-6ccf5856-b544-43ac-afcf-1b7ada129a79.png)
 
 
                 CONTACT US  PAGE
 In Contact t us  page we are having some  basic informations  like 
 	Restaurant  Location.
 	Facebook  id
-	Instagram  Id 
-	And whether  they will  return the money and how much they will   return if we  cancel the order.
-![contact](https://user-images.githubusercontent.com/88303858/128032426-ee9c8ba2-6714-4241-a04b-12942c285016.jpg)
 
+	And Form to send the queries.
+![Screenshot (56)](https://user-images.githubusercontent.com/88303858/129816940-71c4cfce-91ee-4abf-96c8-60e9251225bd.png)
